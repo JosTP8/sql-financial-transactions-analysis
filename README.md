@@ -1,5 +1,5 @@
 # 🧮 SQL Financial Transactions Analysis
-**Proyecto 3 — Portafolio Data Analyst | 2025**  
+**Portafolio Data Analyst | 2025**  
 Análisis SQL de transacciones financieras utilizando múltiples tablas relacionadas
 
 ---
