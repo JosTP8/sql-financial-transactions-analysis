@@ -111,11 +111,9 @@ Todas están explicadas en el notebook:
 ├── data/
 │ ├── cards_data.csv
 │ ├── users_data.csv
-│ ├── transactions_data.csv
 │ ├── transactions_sample.csv
 │ ├── mcc_codes.csv
 │ ├── fintech_transactions.db
-│ └── train_fraud_labels.json
 ├── README.md
 
 ---
